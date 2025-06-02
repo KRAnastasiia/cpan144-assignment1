@@ -19,12 +19,12 @@ This is a React-based web application built using Next.js. It demonstrates found
 ## Screenshots:
 
 ### Home Page
-![Home](./screenshots/Homepage.png)
+![Home](cpan144-assignment1/screenshots/Homepage.png)
 
 ### Search Interaction
-![Destinations](./screenshots/Destination1.png)
-![Destinations](./screenshots/Destination2.png)
+![Destinations](cpan144-assignment1/screenshots/Destination1.png)
+![Destinations](cpan144-assignment1/screenshots/Destination2.png)
 
 ### Conditional Rendering
-![Travel Tips](./screenshots/Tips1.png)
-![Travel Tips](./screenshots/Tips2.png)
+![Travel Tips](cpan144-assignment1/screenshots/Tips1.png)
+![Travel Tips](cpan144-assignment1/screenshots/Tips2.png)
